@@ -1,0 +1,367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Natalie\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-09 15:36+0000\n"
+"PO-Revision-Date: 2018-07-13 11:22-0400\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"Last-Translator: Lenin Peña <leninalbertop@outlook.com>\n"
+"Language: es_ES\n"
+
+#: functions.php:294
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: archive.php:19 archive.php:22 search.php:10
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: core/functions/customizer/natalie_custom_controll.php:48
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Seleccionar &mdash;"
+
+#: functions.php:297
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: comments.php:28
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: functions.php:291
+#, php-format
+msgid "<h4 class=\"author-name\">%s</h4>"
+msgstr "<h4 class=\"author-name\">%s</h4>"
+
+#. Description of the theme
+msgid "A Blog and Shop Theme"
+msgstr "Un tema de blog y tienda"
+
+#: core/widgets/natalie_latest_posts_widget.php:6
+msgid ""
+"A widget that displays your latest posts from all categories or a certain"
+msgstr ""
+"Un widget que muestra tus últimas entradas de una o todas las categorías"
+
+#: core/widgets/natalie_about_widget.php:17
+msgid "About Me"
+msgstr "Sobre mí"
+
+#: core/functions/natalie_portfolio.php:9
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: core/functions/natalie_portfolio.php:10
+msgid "Add New Portfolio"
+msgstr "Añadir nuevo Portafolios"
+
+#: functions.php:373
+msgid "After importing demo data you need to set up menu for your blog"
+msgstr ""
+"Después de importar los datos de la demo necesita configurar el menú para "
+"su blog"
+
+#: core/functions/natalie_portfolio.php:14
+msgid "All Portfolios"
+msgstr "Todos los portafolios"
+
+#: archive.php:24
+msgid "All Posts By"
+msgstr "Todas las entradas por"
+
+#: archive.php:37
+msgid "Archives"
+msgstr "Archivos"
+
+#: core/widgets/natalie_categories_images.php:99
+msgid "ASC"
+msgstr "ASC"
+
+#: archive.php:18
+msgid "Browsing Category"
+msgstr "Categoría de navegación"
+
+#: archive.php:21
+msgid "Browsing Tag"
+msgstr "Etiqueta de navegación"
+
+#: comments.php:16
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: core/widgets/natalie_categories_images.php:62
+msgid "Categories"
+msgstr "Categorías"
+
+#: core/widgets/natalie_categories_images.php:8
+msgid "Categories Images Widget"
+msgstr "Widget de categorías con imagen"
+
+#: comments.php:32 comments.php:49
+msgid "Comment navigation"
+msgstr "Navegación de Comentarios"
+
+#: comments.php:28
+msgid "Comments"
+msgstr "Comentarios"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: loop/blog-1st-fullpost-2colgrid.php:21
+#: loop/blog-1st-fullpost-2colgrid.php:43 loop/blog-1st-fullpost-list.php:19
+#: loop/blog-1st-fullpost-list.php:35 loop/blog-2col-grid.php:21
+#: loop/blog-3col-grid.php:21 loop/blog-list.php:14 loop/blog-standard.php:21
+msgid "Continue Reading"
+msgstr "Continuar leyendo"
+
+#: core/widgets/natalie_categories_images.php:92
+msgid "Count"
+msgstr "Contar"
+
+#: archive.php:28
+msgid "Daily Archives"
+msgstr "Archivos diarios"
+
+#: functions.php:161
+msgctxt "Dancing Script font: on or off"
+msgid "on"
+msgstr "encendido"
+
+#. Author of the theme
+msgid "DannyWP"
+msgstr "DannyWP"
+
+#: core/widgets/natalie_categories_images.php:100
+msgid "DESC"
+msgstr "DESCENSO"
+
+#: core/functions/natalie_portfolio.php:20
+msgid "Description."
+msgstr "Descripción."
+
+#: core/functions/natalie_portfolio.php:12
+msgid "Edit Portfolio"
+msgstr "Editar Portafolio"
+
+#: core/widgets/natalie_categories_images.php:79
+msgid "Hide Empty"
+msgstr "Ocultar Vacíos"
+
+#. Author URI of the theme
+msgid "http://az-theme.net"
+msgstr "http://az-theme.net"
+
+#. URI of the theme
+msgid "http://az-theme.net/downloads/natalie-a-blog-and-shop-theme/"
+msgstr "http://az-theme.net/downloads/natalie-a-blog-and-shop-theme/"
+
+#: core/widgets/natalie_categories_images.php:90
+msgid "ID"
+msgstr "ID"
+
+#: 404.php:6 template-parts/post-none.php:11
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que &rsquo;no podemos encontrar lo que estás buscando&rsquo;. Tal "
+"vez la búsqueda pueda ayudar."
+
+#: core/widgets/natalie_latest_posts_widget.php:60
+msgid "Latest Posts"
+msgstr "Últimas Entradas"
+
+#: comments.php:19
+msgid "Leave a Reply"
+msgstr "Dejar un Comentario"
+
+#: core/classes/like-post/natalie-like-post.php:78
+msgid "Like this"
+msgstr "Me gusta esto"
+
+#: core/widgets/natalie_categories_images.php:75
+msgid "Limit:"
+msgstr "Límite:"
+
+#: comments.php:15
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a> <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+"Conectado como <a href=\"%1$s\">%2$s</a> <a href=\"%3$s\">Cerrar sesión?</"
+"a>"
+
+#: functions.php:159
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "encendido"
+
+#: archive.php:31
+msgid "Monthly Archives"
+msgstr "Archivos Mensuales"
+
+#: archive.php:32
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: functions.php:160
+msgctxt "Montserrat: on or off"
+msgid "on"
+msgstr "encendido"
+
+#: core/widgets/natalie_categories_images.php:91
+msgid "Name"
+msgstr "Nombre"
+
+#. Name of the theme
+msgid "Natalie"
+msgstr "Natalie"
+
+#: core/widgets/natalie_about_widget.php:12
+msgid "NATALIE: About Me Widget"
+msgstr "NATALIE: Widget Acerca de mí"
+
+#: core/widgets/natalie_latest_posts_widget.php:7
+msgid "NATALIE: Latest Posts"
+msgstr "NATALIE: Últimas Entradas"
+
+#: core/functions/natalie_portfolio.php:11
+msgid "New Portfolio"
+msgstr "Nuevo Portafolio"
+
+#: single.php:32
+msgid "Next Post"
+msgstr "Siguiente Entrada"
+
+#: single-portfolio.php:30
+msgid "Next Project"
+msgstr "Siguiente Proyecto"
+
+#: template-parts/post-none.php:2
+msgid "Nothing Found"
+msgstr "No se encontró nada"
+
+#: core/widgets/natalie_latest_posts_widget.php:77
+msgid "Number of posts to show:"
+msgstr "Numero de entrada a mostrar:"
+
+#: core/widgets/natalie_categories_images.php:97
+msgid "Order"
+msgstr "Ordenar"
+
+#: core/widgets/natalie_categories_images.php:88
+msgid "Order By"
+msgstr "Ordenar Por"
+
+#: core/widgets/natalie_categories_images.php:83
+msgid "Parent"
+msgstr "Padre"
+
+#: core/functions/natalie_portfolio.php:6
+msgid "Portfolio"
+msgstr "Portafolio"
+
+#: core/functions/natalie_portfolio.php:5
+#: core/functions/natalie_portfolio.php:7
+#: core/functions/natalie_portfolio.php:8
+msgid "Portfolios"
+msgstr "Portafolios"
+
+#: single.php:31
+msgid "Previous Post"
+msgstr "Entrada Anterior"
+
+#: single-portfolio.php:29
+msgid "Previous Project"
+msgstr "Proyecto Anterior"
+
+#: functions.php:28
+msgid "Primary menu"
+msgstr "Menú principal"
+
+#: template-parts/post-none.php:6
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Comience aquí</"
+"a>."
+
+#: searchform.php:2
+msgid "Search and hit enter..."
+msgstr "Escribe y presiona enter..."
+
+#: core/functions/natalie_portfolio.php:15
+msgid "Search Items"
+msgstr "Buscar Entradas"
+
+#: search.php:9
+msgid "Search results for"
+msgstr "Resultados de búsqueda para"
+
+#: template-parts/post-none.php:8
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero no hay nada que coincida con los términos de búsqueda. "
+"Por favor, inténtalo de nuevo con otras palabras clave."
+
+#: core/widgets/natalie_categories_images.php:94
+msgid ""
+"Sort categories alphabetically, by unique Category ID, or by the count of "
+"posts in that Category"
+msgstr ""
+"Ordenar las categorías alfabéticamente, por ID de categoría único o por el "
+"número de mensajes en esa categoría"
+
+#: core/widgets/natalie_categories_images.php:102
+msgid ""
+"Sort order for categories (either ascending or descending). The default is "
+"ascending"
+msgstr ""
+"Ordenar por categorías (ascendente o descendente). El valor por defecto es "
+"ascendente"
+
+#: comments.php:20
+msgid "Submit"
+msgstr "Enviar"
+
+#: core/widgets/natalie_categories_images.php:71
+#: core/widgets/natalie_latest_posts_widget.php:63
+msgid "Title:"
+msgstr "Título:"
+
+#: functions.php:29
+msgid "Topbar Menu"
+msgstr "Menú Superior"
+
+#: core/functions/natalie_portfolio.php:13
+msgid "View Portfolio"
+msgstr "Ver Portafolio"
+
+#: archive.php:34
+msgid "Yearly Archives"
+msgstr "Archivos anuales"
+
+#: archive.php:35
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: core/classes/like-post/natalie-like-post.php:81
+msgid "You already liked this!"
+msgstr "¡Ya te gustó esto!"
+
+#: functions.php:301
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está a la espera de moderación."
